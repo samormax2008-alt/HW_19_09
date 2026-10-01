@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Player/Player.vcxproj" />
+  <Project Path="HW_19_09.vcxproj" />
+</Solution>
